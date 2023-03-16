@@ -2,7 +2,7 @@
 /**
   *main - Entry point
   *Description: 'Printf'
-  *rRturn: always 0 (success)
+  *Return: always 0 (success)
 */
 int main(void)
 {
