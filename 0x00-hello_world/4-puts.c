@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
-  *main : main entry point
-  *return : always 0 (success)
+  *main - Entry point
+  *Description: 'Printf'
+  *rRturn: always 0 (success)
 */
 int main(void)
 {
